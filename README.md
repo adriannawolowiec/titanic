@@ -1,2 +1,2 @@
 # titanic
-Project of SKN DSM LEarning Group
+Project of SKN DSM Learning Group
