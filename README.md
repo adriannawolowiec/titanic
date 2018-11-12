@@ -1,2 +1,2 @@
 # titanic
-Project of SKN DSM Learning Group
+Project of SKN DSM Kaggle Learning Group
